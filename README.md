@@ -1,4 +1,4 @@
-# BINA.AZ REAL-ESTATE SCRAPER (CS50 FINAL PROJECT) OVERVIEW
+# BINA.AZ REAL-ESTATE SCRAPER OVERVIEW
 
 BINA.AZ is the biggest real-estate listing website in Azerbaijan. In this project, I analyze the most popular commercial streets/regions in the capital, Baku, in order to get a sense of the trends where the most real-estate  is bought and sold.
 
